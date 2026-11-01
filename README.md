@@ -10,6 +10,10 @@ This project focuses on building a personal portfolio website using HTML, CSS, a
 
 I am a Computer Science Engineering student passionate about technology and web development. I enjoy learning new concepts, exploring creative ideas, and developing my technical skills. I aim to use my knowledge to build useful and user-friendly applications.
 
-echnical Skills
+##Technical Skills
 
 I have knowledge of programming languages such as C, Java, and Python, along with web development technologies including HTML, CSS, and JavaScript. I am continuously improving my coding skills and learning how to create responsive and interactive websites.
+
+## Projects
+
+I am developing my web development skills by creating projects using HTML, CSS, and JavaScript. My projects help me practise programming, improve my problem-solving abilities, and gain practical experience in building websites.
