@@ -9,3 +9,7 @@ This project focuses on building a personal portfolio website using HTML, CSS, a
 ## First Commit- About Me
 
 I am a Computer Science Engineering student passionate about technology and web development. I enjoy learning new concepts, exploring creative ideas, and developing my technical skills. I aim to use my knowledge to build useful and user-friendly applications.
+
+echnical Skills
+
+I have knowledge of programming languages such as C, Java, and Python, along with web development technologies including HTML, CSS, and JavaScript. I am continuously improving my coding skills and learning how to create responsive and interactive websites.
