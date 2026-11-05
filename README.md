@@ -17,3 +17,10 @@ I have knowledge of programming languages such as C, Java, and Python, along wit
 ## Projects
 
 I am developing my web development skills by creating projects using HTML, CSS, and JavaScript. My projects help me practise programming, improve my problem-solving abilities, and gain practical experience in building websites.
+## Collaboration Log
+
+- **Pairing Partner:** [Tanmayi M]
+- **GitHub Username:** [taangowda04]
+- **Work Completed:** Collaboratively developed a `greet()` function in `hello.c` that greets a person by name and displays a welcome message.
+- **Learning Outcome:** Learned how GitLens helps track code authorship and commit history, and how Live Share enables real-time collaborative coding with another developer.
+
